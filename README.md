@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r6m" alt="r6m" /></a> </p>
-
 - 🔭 I’m currently working on [Fing](https://github.com/fingcloud)
 
 - 🌱 I’m currently learning **Hashicorp stack and microservice architecture**
